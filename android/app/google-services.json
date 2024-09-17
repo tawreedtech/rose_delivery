@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "789578610548",
+    "project_id": "roseapp-c00c5",
+    "storage_bucket": "roseapp-c00c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789578610548:android:e4d10c6a4a26d610ab9e21",
+        "android_client_info": {
+          "package_name": "com.rose_delivery.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789578610548-785b924b8mg0th78hsafceanjmonvid7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5njOfAsx5IMM075dtzqT1GBQYqrDdBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789578610548-785b924b8mg0th78hsafceanjmonvid7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789578610548-kjme02i7m1hku8lnet5apiq9renl02q9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.roseapp.sa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789578610548:android:8a93cffc320c91a4ab9e21",
+        "android_client_info": {
+          "package_name": "com.roseapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789578610548-785b924b8mg0th78hsafceanjmonvid7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5njOfAsx5IMM075dtzqT1GBQYqrDdBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789578610548-785b924b8mg0th78hsafceanjmonvid7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789578610548-kjme02i7m1hku8lnet5apiq9renl02q9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.roseapp.sa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
